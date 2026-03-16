@@ -16,4 +16,4 @@ Analysis: Built multiple Pivot Tables to cross-reference products against region
 Visualization: Designed a Sales Dashboard using Bar Charts for product category distribution and Donut Charts for channel analysis, tied together with interactive Slicers for real-time filtering.
 
 # Adidas US Sales Analysis (EDA)
-![Adidas Sales Dashboard](adidas_dashboard.png)
+![Adidas Sales Dashboard](Adidas Sales Dashboard.png)
