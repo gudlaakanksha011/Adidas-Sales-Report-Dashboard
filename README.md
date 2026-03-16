@@ -2,7 +2,7 @@
 "Interactive EDA and Sales Dashboard of Adidas US Sales (2020-2021) using Excel Pivot Tables and Slicers to track regional performance and profitability."
 
 # Adidas US Sales Analysis (EDA)
-![Adidas Sales Dashboard](Adidas%20Sales%20Dashboard.png))
+![Adidas Sales Dashboard](Adidas%20Sales%20Dashboard.png)
 
 Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on a comprehensive Adidas sales dataset. The goal was to identify which factors—such as region, retailer, or sales method—contribute most to the company's revenue and operating profit. By cleaning the data and building a dynamic dashboard, I transformed over 9,000 rows of raw data into actionable business insights.
