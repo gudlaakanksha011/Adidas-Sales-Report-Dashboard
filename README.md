@@ -1,6 +1,9 @@
 # Adidas-Sales-Report-Dashboard
 "Interactive EDA and Sales Dashboard of Adidas US Sales (2020-2021) using Excel Pivot Tables and Slicers to track regional performance and profitability."
 
+# Adidas US Sales Analysis (EDA)
+![Adidas Sales Dashboard](Adidas%20Sales%20Dashboard.png))
+
 Overview
 This project focuses on performing Exploratory Data Analysis (EDA) on a comprehensive Adidas sales dataset. The goal was to identify which factors—such as region, retailer, or sales method—contribute most to the company's revenue and operating profit. By cleaning the data and building a dynamic dashboard, I transformed over 9,000 rows of raw data into actionable business insights.
 
@@ -15,5 +18,10 @@ Data Cleaning: Used Excel to handle missing values and formatted the "Invoice Da
 Analysis: Built multiple Pivot Tables to cross-reference products against regions and sales methods.
 Visualization: Designed a Sales Dashboard using Bar Charts for product category distribution and Donut Charts for channel analysis, tied together with interactive Slicers for real-time filtering.
 
-# Adidas US Sales Analysis (EDA)
-![Adidas Sales Dashboard](Adidas%20Sales%20Dashboard.png))
+## 📊 Key Insights
+* **Significant Revenue Growth:** Total sales saw a massive **294% increase** from 2020 ($182M) to 2021 ($717M), indicating strong brand expansion.
+* **Top Revenue Drivers:** **WestPace** emerged as the leading retailer, while **Men's Street Footwear** was the most popular product category by total sales.
+* **Regional Strengths:** The **West and Northeast** regions are the primary contributors to overall revenue, suggesting high demand in these geographical markets.
+* **Sales Channel Efficiency:** While **In-store** sales remain strong, the **Online** and **Outlet** methods account for a significant portion of the volume, offering diverse ways for customers to shop.
+
+
